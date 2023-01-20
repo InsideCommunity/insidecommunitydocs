@@ -1,0 +1,1 @@
+# HOWTO - Contribuate on Ansible collections/roles
